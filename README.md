@@ -26,7 +26,6 @@ Soy autodidacta, suelo aprender las cosas mejor por mi cuenta, investigando y so
 
 Si te interesa la automatización elegante, la depuración metódica o el diseño de flujos que respetan la lógica del usuario, el diseño y desarrollo de sistemas web, ¡conversemos! Estoy abierta a compartir ideas, aprender y construir soluciones que realmente funcionen.
 
-#Compilando sueños.
 
 ---
 
